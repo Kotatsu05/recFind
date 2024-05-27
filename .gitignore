@@ -17,3 +17,6 @@ Cargo.lock
 # Added by cargo
 
 /target
+
+# These are automatically created files for vscode
+.vscode
